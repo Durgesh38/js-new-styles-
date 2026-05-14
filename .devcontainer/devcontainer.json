@@ -1,0 +1,13 @@
+{
+	"image": "mcr.microsoft.com/devcontainers/universal:2",
+	"features": {
+		"ghcr.io/stu-bell/devcontainer-features/node:0": {},
+		"ghcr.io/shyim/devcontainers-features/bun:0": {},
+		"ghcr.io/michidk/devcontainers-features/bun:1": {},
+		"ghcr.io/schlich/devcontainer-features/node-exporter:1": {},
+		"ghcr.io/prulloac/devcontainer-features/bun:1": {},
+		"ghcr.io/prulloac/devcontainer-features/deno:1": {},
+		"ghcr.io/lumenpink/devcontainer-features/bun:0": {},
+		"ghcr.io/devcontainers-extra/features/activemq-sdkman:2": {}
+	}
+}
